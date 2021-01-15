@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../Selenium_testing_framework_python/src"
+    }
+  ],
+  "settings": {}
+}
