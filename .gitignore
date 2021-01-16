@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/python,venv,virtualenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,virtualenv
 
 ### Python ###
+=======
+>>>>>>> a6444df7871254703274e954c3d83fe1190a2ef1
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -54,7 +57,10 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+<<<<<<< HEAD
 pytestdebug.log
+=======
+>>>>>>> a6444df7871254703274e954c3d83fe1190a2ef1
 
 # Translations
 *.mo
@@ -75,7 +81,10 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+<<<<<<< HEAD
 doc/_build/
+=======
+>>>>>>> a6444df7871254703274e954c3d83fe1190a2ef1
 
 # PyBuilder
 target/
@@ -115,7 +124,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 pythonenv*
+=======
+>>>>>>> a6444df7871254703274e954c3d83fe1190a2ef1
 
 # Spyder project settings
 .spyderproject
@@ -134,6 +146,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # pytype static type analyzer
 .pytype/
@@ -158,3 +171,5 @@ pip-selfcheck.json
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,venv,virtualenv
+=======
+>>>>>>> a6444df7871254703274e954c3d83fe1190a2ef1
