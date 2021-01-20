@@ -32,6 +32,7 @@ class HomePageTest(unittest.TestCase):
 
     def test_shopping_cart(self):
         shopping_cart = self.driver.find_element_by_css_selector("div.header-minicart span.icon")
+    
     def tearDown(self):
         self.driver.quit()
 
