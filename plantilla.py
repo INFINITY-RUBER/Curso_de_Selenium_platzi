@@ -15,8 +15,8 @@ class LanguageOptions(unittest.TestCase):
         pass
 
     def tearDown(self):
-                self.driver.implicitly_wait(3)
-                self.driver.close()
+        self.driver.implicitly_wait(3)
+        self.driver.close()
 
 
 if __name__ == '__main__':
