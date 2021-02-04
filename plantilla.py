@@ -4,9 +4,11 @@ from selenium import webdriver
 
 class LanguageOptions(unittest.TestCase):
     def setUp(self):
+        def setUp(self):
         self.driver = webdriver.Chrome(executable_path = './chromedriver')
-        driver = self.driver        
-        driver.get('http://demo-store.seleniumacademy.com/')
+        driver = self.driver
+        driver.get('https://the-internet.herokuapp.com//')
+        driver.find_element_by_link_text('Dynamic Controls').click()
 
 
     def test_select_language(self):
